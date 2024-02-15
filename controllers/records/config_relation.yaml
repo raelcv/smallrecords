@@ -13,15 +13,15 @@ categories:
         toolbarButtons: create|add|remove
         showSearch: true
 
-area:
-    label: janvince.smallrecords::lang.area.menu_label
-    manage:
-        form: $/janvince/smallrecords/models/area/fields.yaml
-        list: $/janvince/smallrecords/models/area/columns.yaml
-        showSearch: true
-    view:
-        list: $/janvince/smallrecords/models/area/columns.yaml
-        showSearch: true
+#area:
+#    label: janvince.smallrecords::lang.area.menu_label
+#    manage:
+#        form: $/janvince/smallrecords/models/area/fields.yaml
+#        list: $/janvince/smallrecords/models/area/columns.yaml
+#        showSearch: true
+#    view:
+#        list: $/janvince/smallrecords/models/area/columns.yaml
+#        showSearch: true
 
 # category:
 #     label: janvince.smallrecords::lang.categories.category
